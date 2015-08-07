@@ -63,3 +63,5 @@ target/
 #ignore temporary vim files
 *.swp
 *.swo
+.*.swp
+.*.swo
