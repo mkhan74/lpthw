@@ -60,6 +60,6 @@ target/
 #text files
 *.txt
 
-#ignore temporary git files
+#ignore temporary vim files
 *.swp
 *.swo
